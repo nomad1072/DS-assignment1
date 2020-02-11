@@ -9,3 +9,7 @@ Programming assignment 1 for Distributed Systems class - Spring 2020 at Universi
 * Run the grpc client stating the host ip and a filename to store the metrics. An example command ```python3 grpc_client.py --host 127.0.0.1 --filename metrics.pickle```
 * Follow the same steps for the UDP folder.
 
+# Notebooks
+
+* Each folder has a separate ipython notebook which has graphs and code related to reading the data.
+
