@@ -6,4 +6,4 @@ requests
 protobuf==3.6.1
 jsonpickle==1.2
 numpy==1.17.2
-Pillow==6.2.0
+Pillow==9.3.0
